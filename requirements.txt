@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+pillow
+reportlab
+pytest
+# optional demo UI
+streamlit

@@ -1,0 +1,2339 @@
+{
+  "page_width_mm": 210.0,
+  "page_height_mm": 297.0,
+  "px_per_mm": 8.0,
+  "num_questions": 50,
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "exam_types": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "markers": [
+    {
+      "name": "top_left",
+      "cx_mm": 18.0,
+      "cy_mm": 18.0,
+      "size_mm": 14.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "name": "top_right",
+      "cx_mm": 192.0,
+      "cy_mm": 18.0,
+      "size_mm": 14.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "name": "bottom_right",
+      "cx_mm": 192.0,
+      "cy_mm": 279.0,
+      "size_mm": 14.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "name": "bottom_left",
+      "cx_mm": 18.0,
+      "cy_mm": 279.0,
+      "size_mm": 14.0,
+      "px_per_mm": 8.0
+    }
+  ],
+  "exam_type_bubbles": [
+    {
+      "group": "exam_type",
+      "index": 0,
+      "option": "A",
+      "cx_mm": 138.0,
+      "cy_mm": 44.0,
+      "radius_mm": 3.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "exam_type",
+      "index": 0,
+      "option": "B",
+      "cx_mm": 149.0,
+      "cy_mm": 44.0,
+      "radius_mm": 3.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "exam_type",
+      "index": 0,
+      "option": "C",
+      "cx_mm": 160.0,
+      "cy_mm": 44.0,
+      "radius_mm": 3.0,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "exam_type",
+      "index": 0,
+      "option": "D",
+      "cx_mm": 171.0,
+      "cy_mm": 44.0,
+      "radius_mm": 3.0,
+      "px_per_mm": 8.0
+    }
+  ],
+  "question_bubbles": [
+    {
+      "group": "question",
+      "index": 1,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 1,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 1,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 1,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 1,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 2,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 2,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 2,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 2,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 2,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 3,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 3,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 3,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 3,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 3,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 4,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 4,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 4,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 4,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 4,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 5,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 5,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 5,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 5,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 5,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 6,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 6,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 6,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 6,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 6,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 7,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 7,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 7,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 7,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 7,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 8,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 8,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 8,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 8,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 8,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 9,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 9,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 9,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 9,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 9,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 10,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 10,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 10,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 10,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 10,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 11,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 11,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 11,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 11,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 11,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 12,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 12,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 12,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 12,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 12,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 13,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 13,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 13,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 13,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 13,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 14,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 14,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 14,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 14,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 14,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 15,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 15,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 15,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 15,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 15,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 16,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 16,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 16,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 16,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 16,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 17,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 17,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 17,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 17,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 17,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 18,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 18,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 18,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 18,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 18,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 19,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 19,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 19,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 19,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 19,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 20,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 20,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 20,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 20,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 20,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 21,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 21,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 21,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 21,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 21,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 22,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 22,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 22,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 22,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 22,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 23,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 23,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 23,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 23,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 23,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 24,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 24,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 24,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 24,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 24,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 25,
+      "option": "A",
+      "cx_mm": 46.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 25,
+      "option": "B",
+      "cx_mm": 55.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 25,
+      "option": "C",
+      "cx_mm": 64.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 25,
+      "option": "D",
+      "cx_mm": 73.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 25,
+      "option": "E",
+      "cx_mm": 82.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 26,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 26,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 26,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 26,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 26,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 70.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 27,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 27,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 27,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 27,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 27,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 78.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 28,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 28,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 28,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 28,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 28,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 86.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 29,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 29,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 29,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 29,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 29,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 94.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 30,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 30,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 30,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 30,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 30,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 102.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 31,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 31,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 31,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 31,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 31,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 110.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 32,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 32,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 32,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 32,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 32,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 118.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 33,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 33,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 33,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 33,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 33,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 126.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 34,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 34,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 34,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 34,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 34,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 134.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 35,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 35,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 35,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 35,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 35,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 142.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 36,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 36,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 36,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 36,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 36,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 150.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 37,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 37,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 37,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 37,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 37,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 158.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 38,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 38,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 38,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 38,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 38,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 166.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 39,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 39,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 39,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 39,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 39,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 174.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 40,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 40,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 40,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 40,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 40,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 182.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 41,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 41,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 41,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 41,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 41,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 190.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 42,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 42,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 42,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 42,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 42,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 198.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 43,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 43,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 43,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 43,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 43,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 206.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 44,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 44,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 44,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 44,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 44,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 214.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 45,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 45,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 45,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 45,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 45,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 222.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 46,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 46,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 46,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 46,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 46,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 230.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 47,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 47,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 47,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 47,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 47,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 238.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 48,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 48,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 48,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 48,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 48,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 246.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 49,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 49,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 49,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 49,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 49,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 254.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 50,
+      "option": "A",
+      "cx_mm": 132.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 50,
+      "option": "B",
+      "cx_mm": 141.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 50,
+      "option": "C",
+      "cx_mm": 150.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 50,
+      "option": "D",
+      "cx_mm": 159.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    },
+    {
+      "group": "question",
+      "index": 50,
+      "option": "E",
+      "cx_mm": 168.0,
+      "cy_mm": 262.0,
+      "radius_mm": 2.75,
+      "px_per_mm": 8.0
+    }
+  ]
+}
